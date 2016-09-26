@@ -1,5 +1,5 @@
 # nonMNIST
-derivative of formula and implementation for deep learning
+Derivative of formula and implementation for deep learning
  
 
 The two pdf files provide detail derivation of formulas appear in Udacity [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) lecture.
